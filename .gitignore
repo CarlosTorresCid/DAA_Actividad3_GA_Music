@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs y resultados generados
+logs/
+*.csv
+
+# MIDI generados automáticamente
+resultado.mid
+
+# Sistema
+.DS_Store
